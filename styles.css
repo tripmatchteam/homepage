@@ -39,6 +39,12 @@ nav {
     height: 40px;
 }
 
+.logo img.app-icon {
+    height: 50px;
+    width: auto;
+    padding: 5px;
+}
+
 .nav-links a {
     color: var(--text-color);
     text-decoration: none;
