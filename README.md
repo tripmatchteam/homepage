@@ -1,12 +1,11 @@
-# Travel Companion App Landing Page
+# TripMatch Landing Page
 
-Official landing page for the Travel Companion App - Connect with fellow travelers on your flight.
+Official landing page for TripMatch - Connect with fellow travelers on your flight.
 
 ## Features
 - Responsive design
 - Modern UI
 - Feature showcase
-- App store download button
 - Privacy policy and Terms of service
 
 ## Development
